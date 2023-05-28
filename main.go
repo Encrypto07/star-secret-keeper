@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	if err := secret.Execute; err != nil {
+	if err := secret.Execute(); err != nil {
 		fmt.Fprintln(os.Stderr, err)
 		os.Exit(1)
 	}
