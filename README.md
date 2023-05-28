@@ -16,7 +16,7 @@ The Start Secret Keeper is a command-line interface (CLI) written in Go that all
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Encrypto07/star-secret-keeper.git
 
 ## Steps to run the program
 ```shell
